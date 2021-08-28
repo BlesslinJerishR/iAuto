@@ -6,19 +6,18 @@ iAuto
 
 * Open iAuto.py File and Edit The Following Lines: 
 
-1)
 ```sh
-username = 'USERNAME'  # Enter your username here
-``` [line:24]
+username = 'USERNAME'  # Enter your username here [line:24]
+ 
+password = 'PASSWORD'  # Enter your password here` [line:25]
 
-2) `password = 'PASSWORD'  # Enter your password here` [line:25]
+timee = "Now"  # Specific Time When The message will be send` [line:91] ( optional )
 
-3) `timee = "21:44"  # Specific Time When The message will be send` [line:91] ( optional )
+txt_box.send_keys(f"Hi @{usrnames} ! What's up ?")  # Messege that you want to send` [line:53]
 
-4) `txt_box.send_keys(f"Hi @{usrnames} ! What's up ?")  # Messege that you want to send` [line:53]
+usrnames = ['user 1', 'user 2']  # username whom you will send the message` [line:11]
 
-5) `usrnames = ['instagram', 'twitter']  # username whom you will send the message` [line:11]
-
+```
 
 Ensure that you have the latest version of Chrome installed and the
 [`chromedriver` ](https://chromedriver.chromium.org/downloads) that matches
