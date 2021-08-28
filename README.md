@@ -21,15 +21,15 @@
 * Open iAuto.py File and Edit The Following Lines: 
 
 ```sh
-username = 'USERNAME'  # Enter your username here [line:27]
+username = 'USERNAME'  # Enter your username here [line:31]
  
-password = 'PASSWORD'  # Enter your password here` [line:28]
+password = 'PASSWORD'  # Enter your password here` [line:32]
 
-timee = "Now"  # Specific Time When The message will be send` [line:83] ( optional )
+time = "Now"  # Specific Time When The message will be send` [line:125] ( optional )
 
-txt_box.send_keys(f"Hi @{usrnames} ! What's up ?")  # Messege that you want to send` [line:56]
+txt_box.send_keys(f"Hi @{usernames} ! What's up ?")  # Messege that you want to send` [line:99]
 
-usrnames = ['user 1', 'user 2']  # username whom you will send the message` [line:12]
+usernames = ['user 1', 'user 2']  # username whom you will send the message` [line:21]
 
 ```
 
