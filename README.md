@@ -41,7 +41,11 @@ your Chrome version available on your `$PATH`. You may have to update this from 
  
 * [Python](https://www.python.org/)
 * `python` on the PATH
-* [The Requests Library](http://python-requests.org) for Python: `pip install requests`
+
+* [The Requests Library](http://python-requests.org) :
+```sh
+pip install requests
+```
 
 * Install Selenium:
 ```sh
