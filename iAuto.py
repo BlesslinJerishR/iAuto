@@ -96,7 +96,7 @@ def iauto():
         time.sleep(5)
         txt_box = browser.find_element_by_tag_name('textarea')
         txt_box.send_keys(
-            f"Hey {usernames}, I love what you do and your images have inspired me. I’d love to connect; what do you think? Do follow back & lets support each others Journey. Feel free to Join our Team for Freelancing Project works. The Pr0tagonists : https://pr0tagonists.github.io . Myself I am Mastermindx33 : https://github.com/Mastermindx33 . I'll be looking forward for your reply mate ! Feel free to ping me .")  # Customize your message
+            f"Hey {usernames}, I love You")  # Customize your message
         time.sleep(5)
         snd_btn = browser.find_elements_by_css_selector('.sqdOP.yWX7d.y3zKF')
         snd_btnn = snd_btn[len(snd_btn) - 1]
