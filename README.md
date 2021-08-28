@@ -7,7 +7,8 @@ iAuto
 * Open iAuto.py File and Edit The Following Lines: 
 
 1) ```sh
-username = 'USERNAME'  # Enter your username here``` [line:24]
+username = 'USERNAME'  # Enter your username here
+``` [line:24]
 
 2) `password = 'PASSWORD'  # Enter your password here` [line:25]
 
