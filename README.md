@@ -6,7 +6,8 @@ iAuto
 
 * Open iAuto.py File and Edit The Following Lines: 
 
-1) ```sh
+1)
+```sh
 username = 'USERNAME'  # Enter your username here
 ``` [line:24]
 
